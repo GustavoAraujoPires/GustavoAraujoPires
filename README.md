@@ -61,17 +61,6 @@ Tenho foco em <strong>Java Orientado a Objetos</strong>, boa capacidade de apren
 
 <hr/>
 
-<h2>📊 Estatísticas do GitHub</h2>
-
-<p align="center">
-  <img height="170"
-    src="https://github-readme-stats.vercel.app/api?username=GustavoAraujoPires&show_icons=true&theme=dark&hide_border=true" />
-  <img height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoAraujoPires&layout=compact&theme=dark&hide_border=true" />
-</p>
-
-<hr/>
-
 <h2>🔗 Conecte-se comigo</h2>
 
 <p align="center">
