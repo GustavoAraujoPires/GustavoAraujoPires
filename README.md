@@ -45,23 +45,31 @@ Tenho foco em **Java Orientado a Objetos**, boa capacidade de aprendizado e vont
 ---
 
 ## 📊 Estatísticas do GitHub
-<div align="left">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=GustavoAraujoPires&show_icons=true&theme=dark&hide_border=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoAraujoPires&layout=compact&theme=dark&hide_border=true"/>
+
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=GustavoAraujoPires&show_icons=true&theme=dark&hide_border=true"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoAraujoPires&layout=compact&theme=dark&hide_border=true"
+    height="170"
+  />
 </div>
 
 ---
 
 ## 🔗 Conecte-se comigo
-<div align="left">
+
+<div align="center">
   <a href="https://www.linkedin.com/in/gustavo-araujo-504376378/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:gustavoaraujopires9@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/GustavoAraujoPires">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
 
