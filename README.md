@@ -2,9 +2,11 @@
 
 <p align="center">
   <strong>Desenvolvedor em formação | Java | Tecnologia da Informação</strong>
+  
 </p>
 
 <p align="center">
+  
   🎓 Análise e Desenvolvimento de Sistemas - Fam (2026-2028)
   
   🎓 Técnico em Informática (ETEC – 2025) • 
