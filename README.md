@@ -5,8 +5,9 @@
 </p>
 
 <p align="center">
+  🎓 Análise e Desenvolvimento de Sistemas - Fam (2026-2028)
   🎓 Técnico em Informática (ETEC – 2025) • 
-  🚀 Buscando primeira oportunidade em TI (Estágio / Júnior) • 
+  🚀 Buscando oportunidade em TI • 
   📍 Itaquaquecetuba – SP, Brasil
 </p>
 
