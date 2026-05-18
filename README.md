@@ -1,90 +1,70 @@
-<h1 align="center">👨‍💻 Gustavo Araújo Pires</h1>
+# 👨‍💻 Gustavo Araújo Pires
 
-<p align="center">
-  <strong>Desenvolvedor em formação | Java | Tecnologia da Informação</strong>
-  
-</p>
+## Developer Back-End Java | Spring Boot | APIs REST
 
-<p align="center">
-  
-  🎓 Análise e Desenvolvimento de Sistemas - Fam (2026-2028)
-  
-  🎓 Técnico em Informática (ETEC – 2025) • 
-  
-  🚀 Buscando oportunidade em TI • 
-  
-  📍 Itaquaquecetuba – SP, Brasil
-</p>
+🎓 Estudante de Análise e Desenvolvimento de Sistemas — FAM
 
-<hr/>
+🎓 Técnico em Informática — ETEC
 
-<h2>🧠 Sobre mim</h2>
+📍 São Paulo, Brasil
 
-<p>
-Sou um profissional em formação na área de Tecnologia da Informação, apaixonado por programação e inovação.
-Tenho foco em <strong>Java Orientado a Objetos</strong>, boa capacidade de aprendizado e vontade constante de evoluir tecnicamente.
-</p>
+🚀 Focado em desenvolvimento Back-End com Java
 
-<ul>
-  <li>☕ Java e Programação Orientada a Objetos</li>
-  <li>🌱 Sempre aprendendo novas tecnologias</li>
-  <li>🤝 Trabalho em equipe e colaboração</li>
-  <li>🎯 Foco em crescimento profissional</li>
-</ul>
+---
 
-<hr/>
+## 🧠 Sobre mim
 
-<h2>⚙️ Tecnologias & Ferramentas</h2>
+Sou desenvolvedor Back-End em formação, apaixonado por tecnologia, programação e resolução de problemas através de código limpo, organizado e eficiente.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,git,github,linux" />
-</p>
+Atuo no desenvolvimento de aplicações utilizando Java e Spring Boot, com foco na criação de APIs REST, integração com bancos de dados relacionais e aplicação de boas práticas de desenvolvimento.
 
-<hr/>
+Tenho experiência prática com projetos envolvendo:
 
-<h2>📚 Formação & Cursos</h2>
+* CRUD completo
+* Arquitetura em camadas
+* Persistência de dados com JPA/Hibernate
+* Integração com PostgreSQL e MySQL
+* Versionamento com Git e GitHub
+* Programação Orientada a Objetos (POO)
 
-<ul>
-  <li>🎓 Técnico em Informática – <strong>ETEC</strong> (Concluído – 2025)</li>
-  <li>📘 Java Fundamentals – <strong>SENAI</strong> (2025)</li>
-  <li>📘 Java POO – <strong>Udemy</strong> (Em andamento)</li>
-  <li>📘 Lógica de Programação – <strong>SENAI</strong> (2024)</li>
-  <li>📘 AI-900 – <strong>SENAI</strong> (2025)</li>
-  <li>📘 Design Thinking – <strong>Udemy</strong> (2024)</li>
-</ul>
+Estou constantemente evoluindo minhas habilidades técnicas através de projetos práticos, estudos contínuos e novos desafios na área de desenvolvimento Back-End.
 
-<hr/>
+---
 
-<h2>🛠️ Habilidades Técnicas</h2>
+## ⚙️ Tecnologias & Ferramentas
 
-<ul>
-  <li>✔ Java Orientado a Objetos</li>
-  <li>✔ CRUD básico com Spring Boot</li>
-  <li>✔ Desenvolvimento Web (HTML & CSS)</li>
-  <li>✔ Redes de Computadores</li>
-  <li>✔ Manutenção e montagem de computadores</li>
-</ul>
+### Back-End
 
-<hr/>
+* Java
+* Spring Boot
+* APIs REST
+* JPA / Hibernate
+* Maven
 
-<h2>🔗 Conecte-se comigo</h2>
+### Banco de Dados
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/gustavo-araujo-504376378/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:gustavoaraujopires9@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/GustavoAraujoPires">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+* SQL
+* PostgreSQL
+* MySQL
 
-<hr/>
+### Ferramentas
 
-<h2>👀 Visitas no perfil</h2>
+* Git
+* GitHub
+* IntelliJ IDEA
+* Postman
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GustavoAraujoPires&style=flat-square&color=blue"/>
-</p>
+### Conhecimentos em evolução
+
+* Spring Security
+* JWT
+* Docker
+* Testes Unitários
+
+---
+
+
+
+## 🎯 Objetivo
+
+Buscando oportunidade de estágio ou desenvolvimento Back-End Java Júnior para aplicar meus conhecimentos, evoluir profissionalmente e contribuir no desenvolvimento de soluções reais através da tecnologia.
